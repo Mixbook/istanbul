@@ -98,7 +98,7 @@
     "url": "git://github.com/gotwarlost/istanbul.git"
   },
   "dependencies": {
-    "istanbul-api": "^1.1.0-alpha",
+    "istanbul-api": "github:lo1tuma/istanbul-api#435b30574137852fc778044f2973624aa9c9184d",
     "abbrev": "1.0.x",
     "async": "1.x",
     "js-yaml": "3.x",
